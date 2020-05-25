@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/TravisandEmily/.virtualenvs/djangodev/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
